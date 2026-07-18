@@ -20,8 +20,7 @@ I used **Vite** as the build tool because it offers:
 
 ```
 src/
-│
-├── assets/             # Images and static assets
+
 ├── components/         # Reusable React components
 │   ├── Navbar.jsx
 │   ├── Hero.jsx
